@@ -1,0 +1,15 @@
+div{
+	background-color:  teal;
+	width:  50%;
+	margin: 0;
+	border: 1px solid red;
+}
+
+h1{
+	color:  red;
+}
+
+ul, ol{
+	color:  green;
+	text-align: center;
+}
